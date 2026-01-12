@@ -10,7 +10,7 @@
  - контракт equals и hashcode 
  - Runnable и Callable
 
-2: Concurency (Thread, ThreadPool, ExecutorPool (слои абстракции в многопоточке))
-3: IO (Файлы, HTTP)
-4: Servlet / Applets
+2: Concurency (Thread, ThreadPool, ExecutorPool (слои абстракции в многопоточке))<br>
+3: IO (Файлы, HTTP)<br>
+4: Servlet / Applets<br>
 5: Гексагональная архитектура. !!!
