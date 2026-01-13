@@ -9,6 +9,7 @@
  - exceptions checked/ uncheked 
  - контракт equals и hashcode 
  - Runnable и Callable
+ - Reflecsion
 
 2: Concurency (Thread, ThreadPool, ExecutorPool (слои абстракции в многопоточке))<br>
 3: IO (Файлы, HTTP)<br>
